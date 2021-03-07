@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "ITWorkers",
+    "description": "ITWorkers",
+    "psr-4": {
+      "ITWorkersApp\\": "app"
+    }
+  }
+}
